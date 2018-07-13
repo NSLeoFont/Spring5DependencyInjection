@@ -1,0 +1,12 @@
+dbLeo:
+   jms:
+      username: leoJMS
+      password: passwordJMS
+      dburl: afghxhs02JMS
+
+---
+spring:
+   profiles: de
+dbLeo:
+  jms:
+     username: leoJMS in GERMAN

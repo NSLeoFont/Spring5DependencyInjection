@@ -1,0 +1,35 @@
+# This is a comment
+
+name: Leo
+
+names: # Inline comment
+   - John
+   - Paul
+   - Ringo
+
+book:
+  author: Leo Font
+  publisher: O'Reilly
+
+truth: yes
+another_truth: True
+more_true: true
+
+false: no # no, false, FALSE
+
+string_val: "This it's a quote"
+
+include_new_lines: |
+    rwoieru weiuweir
+    iuoasjdl asdjkljk qweiou
+    xznc asdkdj queii dasd
+
+ignore_new_lines: >
+    this is
+    just a long
+    string line
+
+
+
+
+
